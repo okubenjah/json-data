@@ -1,8 +1,8 @@
 {
-  "admissionData": {
-    "year": "2024/2025",
-    "program": "PRIVATE SPONSORSHIP",
-    "pages": [
+    "admissionData": {
+      "year": "2024/2025",
+      "program": "PRIVATE SPONSORSHIP",
+      "pages": [
         {
           "pageNumber": 34,
           "students": [
@@ -21,7 +21,7 @@
               {
                 "serialNo": "99",
                 "formId": "24APF126778476230957",
-                "indexNo": "U0441/531",
+                "indexNo": "U044с/531",
                 "name": "NAKITTO SANDRA",
                 "gender": "F",
                 "year": "2023",
@@ -3413,6 +3413,8 @@
         },
         {
           "pageNumber": 40,
+          "students": [
+            {
               "students": [
                 {
                   "SerialNo": 40,
@@ -5151,7 +5153,7 @@
         {
           "pageNumber": 43,
           "students": [
-     {
+             {
       "SerialNo": 184,
       "FormId": "24APF717255329188951",
       "indexNo": "U0742/592",
@@ -5587,8 +5589,7 @@
               "districtname": "KABALE",
               "course": "B.Adult and Community Education",
               "totalweight": 22.8
-            },
-            {
+            },{
               "SerialNo": 250,
               "FormId": "24APF820848896213954",
               "indexNo": "U0909/663",
@@ -5900,9 +5901,9 @@
               "totalweight": 35.5
             }
           ]
-          }
-          ]
-          }
+        }
+      ]
+    }
   }
   
       
